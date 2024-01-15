@@ -193,7 +193,7 @@ body {
 }
 
 .guide-section {
-	background-color: #ee9b00;
+	background-image: linear-gradient(90deg, #0a9396, #e9d8a6, #ca6702);
 	display: flex;
 	flex-direction: row;
 	align-items: center;
